@@ -1,5 +1,5 @@
 # unity-sandbox
-
+主にlightingとかの練習をしていく
 ## FirstPracticeLighting
 ![](./docs/ss/FirstPracticeLighting.png)
 
