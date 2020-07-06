@@ -6,3 +6,6 @@
 
 ## SimpleSpotLight
 ![](./docs/ss/SimpleSpotLight.png)
+
+## Hexagon
+[![Image from Gyazo](https://i.gyazo.com/1ca1aee468829d9738981a245c96b4b0.gif)](https://gyazo.com/1ca1aee468829d9738981a245c96b4b0)
